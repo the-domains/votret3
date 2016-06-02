@@ -1,19 +1,4 @@
-name: votreT3
-favicon: null
-layout_spectrum: 0
 typography_spectrum: 0.60846
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#453c7b'
@@ -25,4 +10,22 @@ color:
   lightness: 0.625
   saturation: 0.8125
   rhythmicContrast: 0.386160877533257
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Maxime
+  email: maxime.fudym@gmail.com
+name: 'votre futur T3 '
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
