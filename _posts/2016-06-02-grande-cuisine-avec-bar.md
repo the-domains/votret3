@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-02T15:26:42.004Z'
+datePublished: '2016-06-02T15:36:08.332Z'
 sourcePath: _posts/2016-06-02-grande-cuisine-avec-bar.md
 inFeed: true
 isBasedOnUrl: ''
@@ -9,8 +9,8 @@ keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-06-02T15:25:54.614Z'
-title: 4 - Grande cuisine avec bar
+dateModified: '2016-06-02T15:32:59.517Z'
+title: Grande cuisine avec bar
 publisher: null
 description: "L'entrée dessert le séjour la cuisine qui s'ouvre également sur le balcon"
 inLanguage: null
