@@ -4,7 +4,7 @@
         <description><![CDATA[Votre futur T3]]></description>
         <link>https://thegrid.ai/votret3/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 22:04:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2016 22:04:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/votret3/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[La première chambre]]></title>
@@ -26,6 +26,13 @@
             <link>https://thegrid.ai/votret3/230d4aaa-341d-44d4-8985-2320e1f6f75e/index.html</link>
             <guid isPermaLink="false">230d4aaa-341d-44d4-8985-2320e1f6f75e</guid>
             <pubDate>Thu, 02 Jun 2016 21:56:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[La grande cuisine]]></title>
+            <description><![CDATA[<article><h1>La grande cuisine</h1><p>avec son petit bar et accès au balcon</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7dcfe92712e734bf2aaad24b85fe43d29b2c148c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/votret3/36fa3097-6f22-4768-9560-7de03b161cae/index.html</link>
+            <guid isPermaLink="false">36fa3097-6f22-4768-9560-7de03b161cae</guid>
+            <pubDate>Thu, 02 Jun 2016 21:56:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
