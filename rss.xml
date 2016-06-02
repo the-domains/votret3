@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Votre futur T3]]></title>
         <description><![CDATA[Votre futur T3]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/votret3/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 21:30:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 02 Jun 2016 21:31:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/votret3/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/15340cbe-e6f8-4b3a-a9b7-df93b40f7dfe.jpg">]]></description>
+            <link>https://thegrid.ai/votret3/e8e107a9-2fb0-464e-958f-e6982826d6c1/index.html</link>
+            <guid isPermaLink="false">e8e107a9-2fb0-464e-958f-e6982826d6c1</guid>
+            <pubDate>Thu, 02 Jun 2016 21:31:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/463edea3-74b9-4e32-813e-68c09c7866ca.jpg">]]></description>
-            <link>undefined230d4aaa-341d-44d4-8985-2320e1f6f75e/index.html</link>
+            <link>https://thegrid.ai/votret3/230d4aaa-341d-44d4-8985-2320e1f6f75e/index.html</link>
             <guid isPermaLink="false">230d4aaa-341d-44d4-8985-2320e1f6f75e</guid>
             <pubDate>Thu, 02 Jun 2016 21:29:33 GMT</pubDate>
         </item>
