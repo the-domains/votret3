@@ -6,16 +6,16 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-02T15:22:23.344Z'
-dateModified: '2016-06-02T15:21:41.875Z'
+datePublished: '2016-06-02T15:23:56.912Z'
+dateModified: '2016-06-02T15:23:38.347Z'
 title: ''
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-06-02-grande-cuisine-avec-bar.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-02-grande-cuisine-avec-bar.md
 _type: Blurb
 
 ---
