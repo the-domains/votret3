@@ -5,9 +5,9 @@ inNav: false
 isBasedOnUrl: ''
 inLanguage: null
 keywords: []
-description: Petit balcon avec vue orienté sud-est
-datePublished: '2016-06-02T11:53:45.688Z'
-dateModified: '2016-06-02T11:53:24.456Z'
+description: "d'environ 5m2 orienté sud-est"
+datePublished: '2016-06-02T11:56:44.516Z'
+dateModified: '2016-06-02T11:56:43.999Z'
 title: ''
 author:
   - name: ''
@@ -19,5 +19,5 @@ starred: false
 _type: Blurb
 
 ---
-Petit balcon avec vue orienté sud-est
+d'environ 5m2 orienté sud-est
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2814103-80f1-4a7e-9911-90f9bfc51bb6.jpg)
