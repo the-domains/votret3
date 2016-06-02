@@ -1,0 +1,28 @@
+name: votreT3
+favicon: null
+layout_spectrum: 0.36925193248316646
+typography_spectrum: 0.7375183845870197
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5567253220360726
+  lightness: 0.8089449196122587
+  saturation: 0.4261349805165082
+  rhythmicContrast: 0.386160877533257
+purpose: []
