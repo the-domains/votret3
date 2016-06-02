@@ -1,22 +1,22 @@
 ---
+datePublished: '2016-06-02T15:26:42.004Z'
+sourcePath: _posts/2016-06-02-grande-cuisine-avec-bar.md
 inFeed: true
-hasPage: false
-inNav: false
 isBasedOnUrl: ''
-inLanguage: null
+authors: []
+hasPage: false
 keywords: []
-description: ''
-datePublished: '2016-06-02T15:23:56.912Z'
-dateModified: '2016-06-02T15:23:38.347Z'
-title: ''
 author:
   - name: ''
     url: ''
-sourcePath: _posts/2016-06-02-grande-cuisine-avec-bar.md
-authors: []
+dateModified: '2016-06-02T15:25:54.614Z'
+title: 4 - Grande cuisine avec bar
 publisher: null
+description: "L'entrée dessert le séjour la cuisine qui s'ouvre également sur le balcon"
+inLanguage: null
+inNav: false
 starred: false
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffbc7970-9b68-4cef-a5d5-86e429ad9ea8.jpg)
+![L'entrée dessert le séjour la cuisine qui s'ouvre également sur le balcon](https://s3-us-west-2.amazonaws.com/the-grid-img/p/419de93d3c0efd47b15043d155258711431b496c.jpg)
