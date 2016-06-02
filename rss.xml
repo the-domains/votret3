@@ -4,28 +4,28 @@
         <description><![CDATA[Votre futur T3]]></description>
         <link>https://thegrid.ai/votret3/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 15:35:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2016 15:41:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/votret3/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[La deuxième chambre]]></title>
+            <description><![CDATA[<article><h1>La deuxième chambre</h1><p>d'environ 10m2 avec placard</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1ec9573eadea5f2ddd057294ef20d49f70f30e12.jpg"></article>]]></description>
+            <link>https://thegrid.ai/votret3/74240bcc-3719-40c1-8ff4-a5accf78d16a/index.html</link>
+            <guid isPermaLink="false">74240bcc-3719-40c1-8ff4-a5accf78d16a</guid>
+            <pubDate>Thu, 02 Jun 2016 15:41:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c6abfc9-9013-401f-b40e-1427e5ed42bd.jpg">]]></description>
             <link>https://thegrid.ai/votret3/e92ff6fe-481a-4db8-a5c6-2eb6e87f49c5/index.html</link>
             <guid isPermaLink="false">e92ff6fe-481a-4db8-a5c6-2eb6e87f49c5</guid>
-            <pubDate>Thu, 02 Jun 2016 15:35:25 GMT</pubDate>
+            <pubDate>Thu, 02 Jun 2016 15:36:36 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca04fde3-6b0b-45b1-aa9c-5313dd3ad7be.jpg">]]></description>
-            <link>https://thegrid.ai/votret3/74240bcc-3719-40c1-8ff4-a5accf78d16a/index.html</link>
-            <guid isPermaLink="false">74240bcc-3719-40c1-8ff4-a5accf78d16a</guid>
-            <pubDate>Thu, 02 Jun 2016 15:34:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/12a2b2e1-c9fd-4938-a352-0ae2f75b5178.jpg">]]></description>
+            <title><![CDATA[La première chambre]]></title>
+            <description><![CDATA[<article><h1>La première chambre</h1><p>d'environ 11m2 avec placard et dressing</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e9f2037d79784f8565c84ed2ba3ca4d5e4a488c7.jpg"></article>]]></description>
             <link>https://thegrid.ai/votret3/8900a13a-4915-4dd4-9d35-019a5347113d/index.html</link>
             <guid isPermaLink="false">8900a13a-4915-4dd4-9d35-019a5347113d</guid>
-            <pubDate>Thu, 02 Jun 2016 15:29:48 GMT</pubDate>
+            <pubDate>Thu, 02 Jun 2016 15:36:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
