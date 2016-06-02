@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-02T15:35:51.368Z'
+datePublished: '2016-06-02T15:45:13.939Z'
 sourcePath: _posts/2016-06-02-petit-balcon-avec-vue-oriente-sud-est.md
 inFeed: true
 isBasedOnUrl: ''
@@ -9,13 +9,13 @@ keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-06-02T15:33:20.096Z'
+dateModified: '2016-06-02T15:45:13.274Z'
 title: Balcon
 publisher: null
 description: "d'environ 5m2 orienté sud-est"
 inLanguage: null
 inNav: false
-starred: false
+starred: true
 _type: Blurb
 
 ---
