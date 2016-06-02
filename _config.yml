@@ -1,7 +1,7 @@
 name: votreT3
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.7375183845870197
+typography_spectrum: 0.60846
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#3d747a'
     - '#827d43'
     - '#915d9a'
-  brandStrength: 0
+  brandStrength: 0.125
   lightness: 0.625
   saturation: 0.8125
   rhythmicContrast: 0.386160877533257
