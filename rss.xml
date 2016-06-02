@@ -7,13 +7,6 @@
         <lastBuildDate>Thu, 02 Jun 2016 21:53:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/votret3/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[La première chambre]]></title>
-            <description><![CDATA[<article><h1>La première chambre</h1><p>d'environ 11m2 avec placard et dressing</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a50734f343ccb00c1fb14302820ab6cb9a0df08.jpg"></article>]]></description>
-            <link>https://thegrid.ai/votret3/02bcc3c4-4a55-4848-b071-e9a9732b5f3a/index.html</link>
-            <guid isPermaLink="false">02bcc3c4-4a55-4848-b071-e9a9732b5f3a</guid>
-            <pubDate>Thu, 02 Jun 2016 21:53:30 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[La grande cuisine]]></title>
             <description><![CDATA[<article><h1>La grande cuisine</h1><p>avec son petit bar et accès au balcon</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7dcfe92712e734bf2aaad24b85fe43d29b2c148c.jpg"></article>]]></description>
             <link>https://thegrid.ai/votret3/36fa3097-6f22-4768-9560-7de03b161cae/index.html</link>
@@ -54,6 +47,13 @@
             <link>https://thegrid.ai/votret3/e8e107a9-2fb0-464e-958f-e6982826d6c1/index.html</link>
             <guid isPermaLink="false">e8e107a9-2fb0-464e-958f-e6982826d6c1</guid>
             <pubDate>Thu, 02 Jun 2016 21:47:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[La première chambre]]></title>
+            <description><![CDATA[<article><h1>La première chambre</h1><p>d'environ 11m2 avec placard et dressing</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2a50734f343ccb00c1fb14302820ab6cb9a0df08.jpg"></article>]]></description>
+            <link>https://thegrid.ai/votret3/02bcc3c4-4a55-4848-b071-e9a9732b5f3a/index.html</link>
+            <guid isPermaLink="false">02bcc3c4-4a55-4848-b071-e9a9732b5f3a</guid>
+            <pubDate>Thu, 02 Jun 2016 21:47:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
