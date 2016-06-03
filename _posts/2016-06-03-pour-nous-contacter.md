@@ -1,20 +1,20 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
-inLanguage: null
-keywords: []
-description: m.fudym@yahoo.com
-datePublished: '2016-06-03T09:04:23.961Z'
-dateModified: '2016-06-03T09:04:23.563Z'
-title: 'Pour nous contacter :'
-author: []
+datePublished: '2016-06-03T09:07:37.121Z'
 sourcePath: _posts/2016-06-03-pour-nous-contacter.md
+inFeed: true
+isBasedOnUrl: null
 authors: []
+hasPage: false
+keywords: []
+author: []
+dateModified: '2016-06-03T09:07:25.908Z'
+title: 'Infos utiles :'
 publisher: null
+description: 'prix : 173 000 € / contact : m.fudym@yahoo.com'
+inLanguage: null
+inNav: false
 starred: false
 _type: Blurb
 
 ---
-<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/64dedae7-0f1a-44b3-90cb-df35dba12d9b.jpg" /><h1>Pour nous contacter :</h1><p>m.fudym@yahoo.com</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/038bc7e775a7d1cb35ec0f5a7192755026accff7.jpg" /><h1>Infos utiles :</h1><p>prix : 173 000 € / contact : m.fudym@yahoo.com</p></article>
